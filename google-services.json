@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958699060886",
+    "firebase_url": "https://ecommerce-de3ac.firebaseio.com",
+    "project_id": "ecommerce-de3ac",
+    "storage_bucket": "ecommerce-de3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958699060886:android:e1b2de7116eb85bc",
+        "android_client_info": {
+          "package_name": "com.example.felixits.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958699060886-24nb2h3m0q86t13834prpjpsuekhcbh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.felixits.ecommerce",
+            "certificate_hash": "672440019ea1ed3eeb2639d7c3da7d862698791c"
+          }
+        },
+        {
+          "client_id": "958699060886-gv7m07hrl72eqsgac4gn62sbt8t8i6ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2Q3ZEWbAMM4xxAWdr6R9nmj4eVnbyco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958699060886-gv7m07hrl72eqsgac4gn62sbt8t8i6ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
